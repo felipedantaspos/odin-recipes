@@ -12,3 +12,8 @@ In this project i used this set of skills:
 - Used images tag (img) for my images
 - Create and organized my repository
 - Used the best practice of commit early and often my project changes.
+
+CSS basics.
+
+- Created and linked .css pages for style
+- Use background, color, font-size, text-align, etc
